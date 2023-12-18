@@ -1,4 +1,38 @@
-## State scholarships 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This repository was created by students of <b>[Kletech Hubli](kletech.ac.in)</b> as a group project for the course Design thinking for social innovation under the guidance of the Faculty- <b> [DR Shivraj Halyal](https://www.linkedin.com/in/dr-shivaraj-halyal-b2705081/?originalSubdomain=in)</b>
+
+Who is this repository for:
+* You are student trying to find scholarships.
+* You are someone who want to contribute to the repository for welfare of Students.   :smile:
+
+The repository was created by:
+* Jeevan H
+* Prateeksha
+* Prerana 
+* UdayKumar
+* Ragavendra
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#state-scholarships">State scholarships</a></li>
+    <li><a href="#national-scholarships">National scholarships</a></li>
+    <li><a href="#private-scholarships">Private scholarships</a></li>
+    <li><a href="#scholarships-based-on-competitive-exams">Scholarships based on competitive exams</a></li>
+  </ol>
+</details>
+
+
+
+
+
+
+## State scholarships
+
 | Name                                    | Type | Timeline            | Details                   | Eligibility
 |-----------------------------------------|-------------|-----------------|----------------------------------------------------|----------------------------------------------------|
 |[Post Matric Scholarship for SC/ST/OBC students](https://ssp.postmatric.karnataka.gov.in/) | scholarship | [timeline](https://ssp.postmatric.karnataka.gov.in/) |-|Minimum 50% or equivalent grades in the last final exam & Family income ≤ ₹2.5 lakh & Belong to SC/ST or minority community & Minimum 75% attendance & Family income ≤ ₹2 lakh (SC/ST) Family income ≤ ₹1 lakh (OBC)
@@ -13,6 +47,7 @@
 |[Karnataka Prabhuddha Overseas Scholarship Scheme](https://ssp.postmatric.karnataka.gov.in/) | scholarship | [timeline](https://ssp.postmatric.karnataka.gov.in/) |-| Residents of Karnataka. Applicant should belong to Schedule Caste or Schedule Tribe Category. Applicant Age Limit should be :- 21 Years for Undergraduate Course. 35 Years for Post Graduate and Doctoral Course. Applicant should have below mentioned minimum marks :- 80% Marks in Previous Exam for Under Graduate Course. 55% Marks in Previous Exam for Post Graduation and Doctoral Course. Applicant should clear any of the following exam :- GRE,GMAT,TOEFL,IELTS. Applicant should secure admission in World Top 500 University.
 
 ## National scholarships
+
 | Name                                    | Type | Timeline            | Details                   | Eligibility
 |-----------------------------------------|-------------|-----------------|----------------------------------------------------|----------------------------------------------------|
 |[Scholarships](https://scholarships.gov.in/) | scholarship | [July/August to October/November (tentative)](https://scholarships.gov.in/) |-|Eligibility Criteria for NSP Scholarship 2023-24, The applicant must be a citizen of India. These scholarships are meant for students of Class 1 to 12, undergraduate, postgraduate, PhD and Postdoctoral students. They can also find scholarships for SC, ST, OBC, EBC, and Minority Communities in the list available. ,The scholarship will be awarded to students who have secured more than 50% marks in the previous final examination and their parents/guardian’s annual income from all sources should be between Rs. 1 lakh to Rs. 8 lakh Per Annum. (Maximum limits of family income vary for different scholarships), Pre-Matric: The scholarship will be awarded for studies in India in a government school from class I to class X. ,Post-Matric: The scholarship is to be awarded for studies in India in a government or private higher secondary school/college/ university. It will also cover technical and vocational courses in Industrial Training Institutes/ Industrial Training Centres affiliated with the National Council for Vocational Training (NCVT) of classes XI and XII level including Polytechnics and other courses. The following categories of applicants are eligible for NSP scholarship schemes offered on the NSP Portal: <b> Scheduled Caste (SC),Scheduled Tribe (ST),Other Backward Class (OBC),Economically Weaker Section (EWS),Minority Communities,Persons with Disabilities (PwD),Female Students,Meritorious Students </b>
@@ -22,7 +57,8 @@
 
 
 
-## Private scholarships 
+## Private scholarships
+
 | Name                                    | Type | Timeline            | Details                   | Eligibility
 |-----------------------------------------|-------------|-----------------|----------------------------------------------------|----------------------------------------------------|
 |[Vidyadhan scholarship](https://www.vidyadhan.org/apply) | scholarship | [ August to December every year](https://www.vidyadhan.org/apply) |Students enrolled in Class 11 at any recognized institution in India can apply. Applicants must have scored more than 60% marks in their Class 10 board examination. The family income of the applicant is less than INR 3,60,000 per annum from all sources.|Candidates should have passed the class X board exam. Region	Andhra Pradesh, Goa, Gujarat, Karnataka, Kerala, Maharashtra, Delhi, Odisha, Tamil Nadu, Pondicherry, and Telangana Rewards	Up to INR 60,000 per annum Students whose annual family income is less than Rs 2 lakh and have passed class 10 and are enrolled in class 11th or are currently studying in class 12th.
@@ -53,9 +89,8 @@
 
 
 
-
-
 ## Scholarships based on competitive exams
+
 | Name                                    | Type | Timeline            | Details                   | Eligibility
 |-----------------------------------------|-------------|-----------------|----------------------------------------------------|----------------------------------------------------|
 |[National Talent Search Exam(NTSE)](https://ncert.nic.in/national-talent-examination.php)|scholarship|[November](https://ncert.nic.in/national-talent-examination.php)|-|The NCERT has released the eligibility criteria for the NTSE scholarship. As per the criteria, students in Class 10 studying in recognised schools affiliated with any state, central, or international board are eligible to appear for the NTSE exam. The prerequisites for stage 1 as well as stage 2 examination is listed below:Stage 1: Candidates studying in India The applicant must be currently enrolled in class 10 under any board. The applicant must be unemployed and of age below 18 years. The applicant must be attempting the class 10 board examination for the first time. Stage 1: Candidates studying abroad The applicant must hold the nationality of India. The applicant must be attempting the class 10 board examination for the first time. Stage 2: Candidates studying in India The applicant must clear the NTSE stage 1 examination to attempt stage 2 tests. Stage 2: Candidates studying abroad The applicant must score a minimum aggregate of 60% in previous examinations. The applicant must appear for the test in the Indian centre. The applicant must decide to continue their studies in India to receive the scholarship.
@@ -64,3 +99,4 @@
 |[Aryabhatta National Maths Competition](https://www.aictsd.com/aryabhatta-national-maths-competition/)|Prize money|[timeline]()|-|Any school student from std. 4th - 12th can apply. Any college student or professional upto age 28 can apply. Be between the age group of 10 years to 26 years. Be a college or school student or a hobbyist who wants to present mathematical skills at the National Level & become the Technology Scientist of future India.
 |[SOF Girl child scholarship scheme](https://sofworld.org/girl-child-scholarship-scheme-gcss)|scholarship|[timeline](https://sofworld.org/girl-child-scholarship-scheme-gcss)|-|be a girl child. be studying in Classes 1 to 10. have secured at.  least 60% marks or equivalent grade in the previous class of study. have parents' combined monthly income of less than INR 15,000
 |[NMMS Scholarship](https://dsel.education.gov.in/scheme/nmmss)|scholarship|[timeline](https://dsel.education.gov.in/scheme/nmmss)|Students pursuing their studies in private schools cannot apply for NMMS 2023-24 exam as well.|Students must be studying in class VIII and must have a minimum 55% score (50% for reserved categories) in class VII. The annual income of the applicant’s parents must not be more than Rs. 3,50,000. In order to continue the scholarship, students must obtain 55% (50% for reserved categories) in class IX and XI and 60% (55% for reserved categories) in the class X exam. Students of Jawahar Navodaya Vidyalaya, Kendriya Vidyalaya and Sainik Schools cannot apply for the scholarship. Students studying in residential schools run by state government institutions with facilities like boarding, lodging and education cannot apply as well.
+
